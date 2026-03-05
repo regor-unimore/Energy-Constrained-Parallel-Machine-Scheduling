@@ -89,3 +89,9 @@ machine scheduling problem with additional resources. European Journal of Operat
 
 [2] Min, S.-H., Lee, S.-W., and Kim, H.-J. (2024). Parallel machine scheduling with peak energy consumption
 limits. IEEE Transactions on Automation Science and Engineering.
+
+## 7. ACKNOWLEDGMENT
+
+The first set of instances corresponds to the benchmark instances introduced in [1], which were already publicly available.
+
+The second set of instances was kindly shared with us by the authors of [2] for research purposes. We gratefully acknowledge the authors for providing these instances and enabling the computational study presented in our work.
