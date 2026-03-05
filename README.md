@@ -83,12 +83,9 @@ The results file contains the following fields (semicolon-separated values):
 - Lifting Time: time spent in lifting procedures in seconds.
 
 ## 6. REFERENCES
-[1] Fanjul-Peyro, L., Perea, F., and Ruiz, R. (2017). Models and matheuristics for the unrelated parallel
-machine scheduling problem with additional resources. European Journal of Operational Research,
-260(2):482–493.
+[1] Fanjul-Peyro, L., Perea, F., and Ruiz, R. (2017). Models and matheuristics for the unrelated parallel machine scheduling problem with additional resources. European Journal of Operational Research, 260(2):482–493.
 
-[2] Min, S.-H., Lee, S.-W., and Kim, H.-J. (2024). Parallel machine scheduling with peak energy consumption
-limits. IEEE Transactions on Automation Science and Engineering.
+[2] Min, S.-H., Lee, S.-W., and Kim, H.-J. (2025). Parallel machine scheduling with peak energy consumption limits. IEEE Transactions on Automation Science and Engineering, 22:18063–18075.
 
 ## 7. ACKNOWLEDGMENT
 
